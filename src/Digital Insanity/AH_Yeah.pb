@@ -363,14 +363,14 @@ rastend:
 
 EndDataSection
 
-
-; IDE Options = PureBasic 5.73 LTS (Windows - x86)
-; CursorPosition = 132
+; IDE Options = PureBasic 6.21 - C Backend (MacOS X - arm64)
+; CursorPosition = 20
 ; Folding = Aw
 ; Executable = AH_Yeah.exe
 ; SubSystem = dx9
 ; DisableDebugger
 ; CompileSourceDirectory
+; Compiler = PureBasic 6.21 - C Backend (MacOS X - arm64)
 ; IncludeVersionInfo
 ; VersionField0 = 1
 ; VersionField1 = 1

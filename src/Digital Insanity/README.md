@@ -1,3 +1,12 @@
+Digital Insanity - Ah Yeah! Screen
+From The MindBomb Demo
+
+Code:        Digital Insanity
+Gfx:        Digital Insanity
+Music:        Mad Max
+Released:    April 1990
+Remake:        KrazyK 2024
+
 Tested and working with 5.73 LTS. PB 6.x upwards has issues with image transparency so use a lower version.
 
 ;This Purebaisc code is for the Ah Yeah! screen by Digital Insanity for The Lost Boys MindBomb Demo on the Atari ST

@@ -1,5 +1,0 @@
-Code:        Bod
-Gfx:         Bod,Sodan
-Muzak:       Mad Max
-Released:    June 2005
-Remake:      Ripping & Coding KrazyK 2022 
