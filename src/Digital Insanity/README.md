@@ -27,3 +27,5 @@ Tested and working with 5.73 LTS. PB 6.x upwards has issues with image transpare
 ;After PB 6.x the image transparency no longer works properly.
 
 ;KrazyK 2024
+
+https://www.dbfinteractive.com/forum/index.php?topic=6953.0
