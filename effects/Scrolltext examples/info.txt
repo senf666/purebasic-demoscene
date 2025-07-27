@@ -1,0 +1,9 @@
+Scrolltext examples:
+
+Ex 1: Drawing a basic scroller from an image to a sprite, then to the screen.
+Ex 2: Drawing a basic sprite scroller directly to the screen.
+Ex 3: Drawing a basic front tube sprite scroller
+Ex 4: Drawing a basic front and back spinning tube scroller
+Ex 5: Drawing a basic sinewave scroller
+Ex 6: Drawing a sinewave tube scroller
+

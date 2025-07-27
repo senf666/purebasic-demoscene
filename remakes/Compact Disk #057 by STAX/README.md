@@ -1,4 +1,4 @@
-# STAX menu 57 - PureBasic Source
+# Compact Disk #057 by STAX
 Another Stax remake, and this one is an eye burner. It was a bit trickier than I originally thought it was going to be to remake. All done now with the sine data ripped from the original too.It requires a couple commands form my own oldskool library, included here along with a new version of the OSME library that has a few more functions.
 
 

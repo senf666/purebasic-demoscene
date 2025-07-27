@@ -655,12 +655,11 @@ DataSection
   Color:
   Data.i $4060F0, $00F040, $F08040, $00D0F0, $F040C0, $cbff2f
 EndDataSection
-
 ; IDE Options = PureBasic 6.21 - C Backend (MacOS X - arm64)
 ; CursorPosition = 11
+; FirstLine = 297
 ; Folding = -
 ; EnableXP
 ; Executable = TINY_OLDSHOOL_FX.exe
-; DisableDebugger
-; EnableCompileCount = 223
+; EnableCompileCount = 225
 ; EnableBuildCount = 1
