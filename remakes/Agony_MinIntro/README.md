@@ -17,4 +17,5 @@ Use the arrow keys to move the Owl.
 **Author:**
 
 [Forum thread](https://www.dbfinteractive.com/forum/index.php?topic=6751.0)
-original game https://en.wikipedia.org/wiki/Agony_(1992_video_game)
+
+[original game] https://en.wikipedia.org/wiki/Agony_(1992_video_game)
