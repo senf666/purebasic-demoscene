@@ -22,13 +22,11 @@ Thanks to **StarBootics** of the PureBasic forum for the tip.
 
 This is a simple demo, expanding on learning done in Old School Demos 1 and 2.  
 It was produced in response to a 'challenge' on the DBF Forum calling for Halloween demos.  
-The original post can be found here:  
-[DBF Forum Topic](http://www.dbfinteractive.com/forum/index.php?topic=6784.0)
+The original post can be found [here](http://www.dbfinteractive.com/forum/index.php?topic=6784.0)
 
 Various routines will find their way into a game soon to be released by Cosine!
 
-The source is provided as a learning tool for others and, yes, some bits could be reduced in size using loops, etc., but since this is for beginners to follow also, it has been coded and commented to be as readable and friendly as possible.  
-It should be found in the `source` folder.
+The source is provided as a learning tool for others and, yes, some bits could be reduced in size using loops, etc., but since this is for beginners to follow also, it has been coded and commented to be as readable and friendly as possible.  It should be found in the `source` folder.
 
 It is common for PureBasic resources to be converted to data and included in the compiled EXE.  
 However, in this case, all of the graphics are provided in their original bitmap format so you can see how they all slot together and how they are used.
