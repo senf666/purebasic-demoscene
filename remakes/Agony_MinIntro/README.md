@@ -16,6 +16,6 @@ Use the arrow keys to move the Owl.
 **EnJoY**  
 **Author:**
 
-[Forum thread](https://www.dbfinteractive.com/forum/index.php?topic=6751.0)
+[Dark Bit Factory forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6751.0)
 
 [original game] https://en.wikipedia.org/wiki/Agony_(1992_video_game)

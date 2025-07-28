@@ -21,6 +21,6 @@ Contains:
 Learned a few new tricks in PureBasic converting this one that I will share once I comment the code.  
 It's all written in PureBasic using only the native commands. No OpenGL or SDL. Nothing like that. Just the standard PureBasic 2D sprite commands.
 
-[Dark Bit Forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6832.0)  
+[Dark Bit Factory forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6832.0)  
 
 [Original demo](https://demozoo.org/graphics/148465/)

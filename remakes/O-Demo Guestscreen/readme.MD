@@ -5,7 +5,7 @@ You can swap from windowed to maximized during the demo by pressing `F1`/`F2` no
 
 ---
 
-[Forum discussion](https://demozoo.org/productions/116919/)
+[Dark Bit Factory forum discussion](https://demozoo.org/productions/116919/)
 
 [Original production](https://demozoo.org/productions/116919/)
 

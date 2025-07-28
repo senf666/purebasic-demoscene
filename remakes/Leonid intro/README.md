@@ -12,6 +12,6 @@ You will need the x86 userlibraries included to run the source.
 **Released:** June 2005  
 **Remake:** Ripping & Coding KrazyK 2022
 
-[Dark Bit Forum thread](https://www.dbfinteractive.com/forum/index.php?topic=6929.0)
+[Dark Bit Factory forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6929.0)
 
-Original production: https://demozoo.org/productions/130111/
+[Original production](https://demozoo.org/productions/130111/)

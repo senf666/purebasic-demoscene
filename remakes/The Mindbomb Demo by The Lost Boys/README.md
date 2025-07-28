@@ -35,8 +35,10 @@ But don't forget where it came from, as a credit is always nice if you use it in
 
 ---
 
-**KrazyK**
+Author: **KrazyK**
 
-https://www.dbfinteractive.com/forum/index.php?topic=6953.0
-https://demozoo.org/productions/72284/
+[Dark Bit Factory forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6953.0)
+
+[original demo](https://demozoo.org/productions/72284/)
+
 

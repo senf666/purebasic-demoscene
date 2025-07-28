@@ -9,4 +9,4 @@ It's all commented as far as I can make sense of it, so feel free to use and abu
 
 [Original demo](https://demozoo.org/productions/65220/)
 
-[Forum thread](https://www.dbfinteractive.com/forum/index.php?topic=6933.0)
+[Dark Bit Factory forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6933.0)

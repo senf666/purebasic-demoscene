@@ -1,7 +1,9 @@
-The Lost Boys Diskmag Intro
+# The Lost Boys Diskmag Intro
 
-Code:		Manikin & Digital Insanity
-Gfx:		Spaz
-Music:		Mad Max
-Released:	June 1900
-Win32 Remake:	KrazyK 2024
+**Code:** Manikin & Digital Insanity  
+**Gfx:** Spaz  
+**Music:** Mad Max  
+**Released:** June 1900  
+**Win32 Remake:** KrazyK 2024
+
+[Dark Bit Factory forum discussion]

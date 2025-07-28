@@ -4,7 +4,7 @@ Another Stax remake, and this one is an eye burner. It was a bit trickier than I
 
 **Author:** KrazyK (2021)
 
-[Dark Bit Factory Forum Discussion](https://www.dbfinteractive.com/forum/index.php?topic=6914.msg84902)
+[Dark Bit Factory forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6914.msg84902)
 
 [original release 1994](https://demozoo.org/productions/76682/)
 

@@ -28,7 +28,7 @@ It requires the PureProcs library copied into your `\PureLibraries\UserLibraries
 
 It's written using v5.21 LTS but I've tried not to use any 5.xx specific commands so it should run on earlier versions too. Unfortunately, I can't try this out anymore so don't blame me if it bombs.  ::)
 
-[Forum Discussion](https://www.dbfinteractive.com/forum/index.php?topic=6149.0)
+[Dark Bit Factory forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6149.0)
 
 [Original demo](https://demozoo.org/productions/84024/)
 
