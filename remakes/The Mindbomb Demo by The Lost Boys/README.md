@@ -1,5 +1,4 @@
-# Digital Insanity - Ah Yeah! Screen  
-_From The MindBomb Demo_
+# Digital Insanity - Ah Yeah! Screen  _From The MindBomb Demo_
 
 **Code:** Digital Insanity  
 **Gfx:** Digital Insanity  
@@ -26,6 +25,8 @@ Feel free to use and abuse my code, make it better, faster, add stuff to it, etc
 But don't forget where it came from, as a credit is always nice if you use it in your own prods. :-)
 
 ---
+
+![Ah Yeah! Screenshot](ah_yeah!.png)
 
 ### Notes
 
