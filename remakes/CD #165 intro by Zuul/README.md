@@ -13,7 +13,7 @@ For PureBasic 5.xx, change the subsystem to `dx9` instead of `directx9` as the s
 **Code:** Stix  
 **Gfx:** Zuul  
 **Music:** Mad Max  
-**Remake:** KrazyK 2024
+**Remake author:** KrazyK 2024
 
 [Dark Bit Factory forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6968.msg85152)
 

@@ -10,7 +10,7 @@ You will need the x86 userlibraries included to run the source.
 **Gfx:** Bod, Sodan  
 **Muzak:** Mad Max  
 **Released:** June 2005  
-**Remake:** Ripping & Coding KrazyK 2022
+**Remake author:** Ripping & Coding KrazyK 2022
 
 [Dark Bit Factory forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6929.0)
 

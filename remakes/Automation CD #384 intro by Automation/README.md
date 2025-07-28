@@ -5,7 +5,7 @@ Added the disk drive loading and depacker from my oldskool library (included her
 
 It's all commented as far as I can make sense of it, so feel free to use and abuse it.
 
-**Author:** KrazyK 2023
+**Remake author:** KrazyK 2023
 
 [Original demo](https://demozoo.org/productions/65220/)
 

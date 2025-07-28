@@ -14,7 +14,7 @@ Use the arrow keys to move the Owl.
 ---
 
 **EnJoY**  
-**Author:**
+**Remake author:** ~Ar-S~
 
 [Dark Bit Factory forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6751.0)
 

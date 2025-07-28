@@ -1,10 +1,12 @@
+#SoWatt by The Carebears
+
 This is a screen from the SoWatt Demo by The CareBears way, way back in 1989. :o  
 Full source code available here for you to play with too.
 
 
 ---
 
-**THE CAREBEARS – GRODAN AND KVACK KVACK DEMO**
+**THE CAREBEARS – GRODAN AND KVACK KVACK PART**
 
 **Code:** JAS, NICK  
 **Gfx:** TANIS  

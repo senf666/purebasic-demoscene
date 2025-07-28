@@ -2,7 +2,7 @@
 
 Requires the OSME replay library (included).
 
-**Author:** KrazyK (2022)
+**Remake author:** KrazyK (2022)
 
 [Dark Bit Factory forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6928.0)  
 

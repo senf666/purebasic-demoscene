@@ -6,7 +6,7 @@ Simple big scroller, VU bars, and a typing text menu. Nothing spectacular but ni
 Here's the commented PureBasic source for the Orion remake.  
 Everything is in the zip to run it, including the OSME library.
 
-**Author:** KrazyK
+**Remake author:** KrazyK
 
 [Forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=6887.0)  
 
