@@ -4,8 +4,7 @@
 
 InitSprite()
 InitKeyboard()
-
-OpenWindow(1, 0,0,800,600,"DBF - Twister", #PB_Window_ScreenCentered)
+OpenWindow(0,0,0,lScreenWidth,lScreenHeight,"",#PB_Window_ScreenCentered)
 OpenWindowedScreen(WindowID(1),0,0,800,600,0,0,0)
 SetFrameRate(30)
 
@@ -52,3 +51,7 @@ Repeat
   
 Until event = #PB_Event_CloseWindow Or KeyboardPushed(#PB_Key_Escape)
 End
+; IDE Options = PureBasic 6.21 - C Backend (MacOS X - arm64)
+; CursorPosition = 6
+; EnableXP
+; DPIAware

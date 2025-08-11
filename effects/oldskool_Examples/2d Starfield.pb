@@ -4,7 +4,7 @@ scrw=800
 scrh=600
 numstars=500
 
-KK_Window(scrw,scrh)
+OpenScreen(scrw,scrh,32,"2d starfield",#PB_Screen_WaitSynchronization,60)
 CreateSprite(999,scrw,scrh)
 
 KK_Init2DStars(numstars,scrw,scrh,999)
@@ -17,10 +17,8 @@ Repeat
 	DisplayTransparentSprite(999,0,0)
 	FlipBuffers()
 Until GetEsc()
-
-
-; IDE Options = PureBasic 5.73 LTS (Windows - x86)
-; CursorPosition = 12
+; IDE Options = PureBasic 6.21 - C Backend (MacOS X - arm64)
+; CursorPosition = 18
 ; EnableAsm
 ; EnableXP
 ; CompileSourceDirectory

@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "purebasic",
+      "request": "launch",
+      "name": "Launch PureBasic Program",
+      "program": "${workspaceFolder}/${input:pbExecutable}",
+      "preLaunchTask": "build-purebasic"
+    }
+  ],
+  "inputs": [
+    {
+      "id": "pbExecutable",
+      "type": "promptString",
+      "description": "Enter the name of your PureBasic executable (e.g., Stax_Leonid_9.exe)"
+    }
+  ]
+}
