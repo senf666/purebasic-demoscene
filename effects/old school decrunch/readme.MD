@@ -5,4 +5,4 @@ works with PureBasic 6.21.
 
 author: Teddy Rogers
 
-[Dark Bit Factory forum discussion](http://www.dbfinteractive.com/forum/index.php?PHPSESSID=tuni8hed99sbe4tcq3f3ghm5g0&topic=5296.msg81518#msg81518)
+[Dark Bit Factory forum discussion](https://www.dbfinteractive.com/forum/index.php?topic=5296.msg81518#msg81518)
